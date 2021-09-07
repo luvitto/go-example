@@ -14,5 +14,5 @@ docker-compose up -d
 #### Check
 
 ```
-curl http//lockalhost:80
+curl http//localhost:80
 ```
