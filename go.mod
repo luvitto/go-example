@@ -1,4 +1,4 @@
-module go-contacts
+module go-example
 
 go 1.15
 
